@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/armaan-nagra/Leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-nagra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/armaan-nagra/Leetcode/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
