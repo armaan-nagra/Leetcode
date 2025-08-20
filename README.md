@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/armaan-nagra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/armaan-nagra/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-nagra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/armaan-nagra/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
