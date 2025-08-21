@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/armaan-nagra/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/armaan-nagra/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/armaan-nagra/Leetcode/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/armaan-nagra/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/armaan-nagra/Leetcode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-nagra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/armaan-nagra/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/armaan-nagra/Leetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
