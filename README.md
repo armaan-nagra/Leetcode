@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
