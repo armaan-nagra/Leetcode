@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/armaan-nagra/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/armaan-nagra/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/armaan-nagra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Sliding Window
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/armaan-nagra/Leetcode/tree/master/0127-word-ladder) |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Greedy
 |  |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -216,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Union Find
+|  |
+| ------- |
+| [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
