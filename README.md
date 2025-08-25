@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/armaan-nagra/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/armaan-nagra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Rolling Hash
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
