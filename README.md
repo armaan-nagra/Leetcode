@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/armaan-nagra/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/armaan-nagra/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/armaan-nagra/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0243-shortest-word-distance](https://github.com/armaan-nagra/Leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
+| [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-nagra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
