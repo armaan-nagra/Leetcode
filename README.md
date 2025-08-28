@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-nagra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/armaan-nagra/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-nagra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/armaan-nagra/Leetcode/tree/master/0127-word-ladder) |
 | [0243-shortest-word-distance](https://github.com/armaan-nagra/Leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-nagra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-nagra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
