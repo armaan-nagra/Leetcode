@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/armaan-nagra/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0371-sum-of-two-integers](https://github.com/armaan-nagra/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/armaan-nagra/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/armaan-nagra/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
