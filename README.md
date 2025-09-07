@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/armaan-nagra/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/armaan-nagra/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/armaan-nagra/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/armaan-nagra/Leetcode/tree/master/0055-jump-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/armaan-nagra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/armaan-nagra/Leetcode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/armaan-nagra/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/armaan-nagra/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
