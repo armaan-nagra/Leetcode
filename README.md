@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/armaan-nagra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/armaan-nagra/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Breadth-First Search
 |  |
