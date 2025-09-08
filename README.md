@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/armaan-nagra/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/armaan-nagra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/armaan-nagra/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [2358-number-of-ways-to-split-array](https://github.com/armaan-nagra/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
