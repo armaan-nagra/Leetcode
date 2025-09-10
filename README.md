@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/armaan-nagra/Leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/armaan-nagra/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/armaan-nagra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/armaan-nagra/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/armaan-nagra/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/armaan-nagra/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/armaan-nagra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-nagra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/armaan-nagra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/armaan-nagra/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/armaan-nagra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
