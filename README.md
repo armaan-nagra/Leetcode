@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/armaan-nagra/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/armaan-nagra/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/armaan-nagra/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/armaan-nagra/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/armaan-nagra/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/armaan-nagra/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/armaan-nagra/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/armaan-nagra/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/armaan-nagra/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/armaan-nagra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/armaan-nagra/Leetcode/tree/master/0189-rotate-array) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
