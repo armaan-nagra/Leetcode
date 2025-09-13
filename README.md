@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/armaan-nagra/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0243-shortest-word-distance](https://github.com/armaan-nagra/Leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/armaan-nagra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
@@ -354,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaan-nagra/Leetcode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
