@@ -4,12 +4,13 @@ class Solution:
 
         for x in asteroids:
             while stack and stack[-1] > 0 and x < 0:
-                if stack[-1] < -x:
+                if abs(stack[-1]) < abs(x):
                     stack.pop()
-                    continue
-                elif stack[-1] == -x:
+                elif abs(stack[-1]) > abs(x):
+                    x = 0
+                else:
+                    x = 0 
                     stack.pop()
-                break
-            else:
+            if x:
                 stack.append(x)
         return stack
