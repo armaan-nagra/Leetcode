@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/armaan-nagra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/armaan-nagra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/armaan-nagra/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
