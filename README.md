@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/armaan-nagra/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/armaan-nagra/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/armaan-nagra/Leetcode/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0273-integer-to-english-words](https://github.com/armaan-nagra/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/armaan-nagra/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/armaan-nagra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/armaan-nagra/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/armaan-nagra/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/armaan-nagra/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/armaan-nagra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/armaan-nagra/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/armaan-nagra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
