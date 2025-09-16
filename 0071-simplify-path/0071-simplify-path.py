@@ -1,6 +1,5 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        #eeasy peasy lemon squeezy
         stack = []
         res = ""
 
