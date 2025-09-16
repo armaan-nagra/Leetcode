@@ -1,7 +1,7 @@
 class FreqStack:
 
     def __init__(self):
-        self.counter = 0 
+        # self.counter = 0 
         self.items = defaultdict(list)
         self.freq = defaultdict(int)
         self.max_freq = 0
@@ -12,7 +12,7 @@ class FreqStack:
         self.items[f].append(val)
         if f > self.max_freq:
             self.max_freq = f
-        self.counter += 1
+        # self.counter += 1
 
     def pop(self) -> int:
         val = self.items[self.max_freq].pop()
