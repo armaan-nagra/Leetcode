@@ -24,11 +24,13 @@ class SnapshotArray:
 
         while l <= r:
             mid = (l+r) // 2
-            if arr[mid][0] <= snap_id:
+            if arr[mid][0] < snap_id:
                 l = mid + 1
-            else:
+            elif arr[mid][0] > snap_id:
                 r = mid - 1
-        return arr[r][-1]
+            else:
+                return arr[mid][1]
+        return arr[r][1]
         
         
 
