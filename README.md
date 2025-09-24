@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/armaan-nagra/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/armaan-nagra/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/armaan-nagra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/armaan-nagra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/armaan-nagra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/armaan-nagra/Leetcode/tree/master/0075-sort-colors) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/armaan-nagra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/armaan-nagra/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/armaan-nagra/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
