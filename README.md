@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/armaan-nagra/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/armaan-nagra/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/armaan-nagra/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
