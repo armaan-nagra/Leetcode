@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 ## Stack
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0244-shortest-word-distance-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/armaan-nagra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/armaan-nagra/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
 ## Interactive
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -533,4 +538,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
