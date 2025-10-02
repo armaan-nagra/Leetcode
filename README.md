@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/armaan-nagra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Stack
 |  |
 | ------- |
