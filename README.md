@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/armaan-nagra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/armaan-nagra/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/armaan-nagra/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/armaan-nagra/Leetcode/tree/master/0476-number-complement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -562,4 +566,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
