@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/armaan-nagra/Leetcode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
