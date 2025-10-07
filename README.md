@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/armaan-nagra/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/armaan-nagra/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/armaan-nagra/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0473-matchsticks-to-square](https://github.com/armaan-nagra/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/armaan-nagra/Leetcode/tree/master/0476-number-complement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/armaan-nagra/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/armaan-nagra/Leetcode/tree/master/0077-combinations) |
 | [0473-matchsticks-to-square](https://github.com/armaan-nagra/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
@@ -596,4 +601,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/armaan-nagra/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
