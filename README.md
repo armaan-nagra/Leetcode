@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2556-convert-the-temperature](https://github.com/armaan-nagra/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
