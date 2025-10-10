@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/armaan-nagra/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
+| [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/armaan-nagra/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1304-longest-happy-string](https://github.com/armaan-nagra/Leetcode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
+| [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/armaan-nagra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/armaan-nagra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/armaan-nagra/Leetcode/tree/master/1304-longest-happy-string) |
+| [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Stack
 |  |
@@ -613,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/armaan-nagra/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 <!---LeetCode Topics End-->
