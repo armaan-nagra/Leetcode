@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/armaan-nagra/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/armaan-nagra/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
+| [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1304-longest-happy-string](https://github.com/armaan-nagra/Leetcode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/armaan-nagra/Leetcode/tree/master/1448-maximum-69-number) |
