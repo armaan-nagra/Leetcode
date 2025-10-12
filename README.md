@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/armaan-nagra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaan-nagra/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/armaan-nagra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/armaan-nagra/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/armaan-nagra/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Two Pointers
 |  |
 | ------- |
