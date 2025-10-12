@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
+| [1233-number-of-ships-in-a-rectangle](https://github.com/armaan-nagra/Leetcode/tree/master/1233-number-of-ships-in-a-rectangle) |
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1233-number-of-ships-in-a-rectangle](https://github.com/armaan-nagra/Leetcode/tree/master/1233-number-of-ships-in-a-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/armaan-nagra/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1233-number-of-ships-in-a-rectangle](https://github.com/armaan-nagra/Leetcode/tree/master/1233-number-of-ships-in-a-rectangle) |
 ## Backtracking
 |  |
 | ------- |
