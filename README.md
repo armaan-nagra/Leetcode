@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/armaan-nagra/Leetcode/tree/master/2556-convert-the-temperature) |
+| [3192-maximum-xor-product](https://github.com/armaan-nagra/Leetcode/tree/master/3192-maximum-xor-product) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/armaan-nagra/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3192-maximum-xor-product](https://github.com/armaan-nagra/Leetcode/tree/master/3192-maximum-xor-product) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/armaan-nagra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/armaan-nagra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3192-maximum-xor-product](https://github.com/armaan-nagra/Leetcode/tree/master/3192-maximum-xor-product) |
 | [3317-maximum-palindromes-after-operations](https://github.com/armaan-nagra/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 ## Heap (Priority Queue)
 |  |
