@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/armaan-nagra/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/armaan-nagra/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/armaan-nagra/Leetcode/tree/master/0399-evaluate-division) |
+| [0408-valid-word-abbreviation](https://github.com/armaan-nagra/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/armaan-nagra/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/armaan-nagra/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0246-strobogrammatic-number](https://github.com/armaan-nagra/Leetcode/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/armaan-nagra/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0408-valid-word-abbreviation](https://github.com/armaan-nagra/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/armaan-nagra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0647-palindromic-substrings) |
