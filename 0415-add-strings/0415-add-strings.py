@@ -10,16 +10,9 @@ class Solution:
             n_total = 0
             if counter <= n:
                 n_total += ord(num1[n - counter]) - 48
-                if num1[n-counter] == "0":
-                    n_total = 0
-
             if counter <= m:
                 m_total += ord(num2[m - counter]) - 48
-                if num2[m-counter] == "0":
-                    m_total = 0
-            
             total = carry + m_total + n_total
-            print(total)
             counter += 1
             carry = total // 10
             value = total % 10
