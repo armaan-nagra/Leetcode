@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
+| [0851-goat-latin](https://github.com/armaan-nagra/Leetcode/tree/master/0851-goat-latin) |
 | [0990-verifying-an-alien-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
 | [1274-number-of-days-between-two-dates](https://github.com/armaan-nagra/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
