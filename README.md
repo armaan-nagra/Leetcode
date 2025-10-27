@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0676-implement-magic-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Combinatorics
 |  |
 | ------- |
