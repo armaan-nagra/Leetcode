@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1319-unique-number-of-occurrences](https://github.com/armaan-nagra/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1319-unique-number-of-occurrences](https://github.com/armaan-nagra/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/armaan-nagra/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/armaan-nagra/Leetcode/tree/master/1512-design-underground-system) |
