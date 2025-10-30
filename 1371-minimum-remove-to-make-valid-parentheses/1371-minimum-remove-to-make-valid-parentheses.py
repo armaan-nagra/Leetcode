@@ -1,29 +1,36 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        openBracket = 0
+        openBrackets = 0
         res = []
-        for character in s:
-            if character == "(":
-                openBracket += 1
-                res.append(character)
-            elif character == ")":
-                if openBracket > 0:
-                    res.append(character)
-                    openBracket -= 1
+
+        for char in s: #first loop to only have as many closed <= open
+            if char == "(":
+                res.append(char)
+                openBrackets += 1
+            elif char == ")":
+                if openBrackets:
+                    res.append(char)
+                    openBrackets -= 1
             else:
-                res.append(character)
-
+                res.append(char) 
         
-
-        #now do the exact the same thing but go right to left and remove openBracket open brackets?
-
-        for x in range(len(res)-1, -1, -1):
-            if openBracket > 0:
-                if res[x] == "(":
-                    res.pop(x)
-                    openBracket -= 1
-                    
+        #second loop to make sure there's no unclosed brackets, if so, remove them
+        counter = len(res) - 1
+        while openBrackets and counter >= 0:
+            if res[counter] == "(":
+                openBrackets -= 1
+                res.pop(counter)
+            counter -= 1
 
         return "".join(res)
+
+            
+        
+
+            
+
+
+
+
 
 
