@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/armaan-nagra/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0229-majority-element-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/armaan-nagra/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/armaan-nagra/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/armaan-nagra/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0229-majority-element-ii) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/armaan-nagra/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/armaan-nagra/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/armaan-nagra/Leetcode/tree/master/1233-number-of-ships-in-a-rectangle) |
 ## Recursion
 |  |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/armaan-nagra/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -770,4 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/armaan-nagra/Leetcode/tree/master/0399-evaluate-division) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/armaan-nagra/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
