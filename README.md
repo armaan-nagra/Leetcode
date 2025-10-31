@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/armaan-nagra/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/armaan-nagra/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/armaan-nagra/Leetcode/tree/master/0463-island-perimeter) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0676-implement-magic-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/armaan-nagra/Leetcode/tree/master/0399-evaluate-division) |
+| [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 ## Bucket Sort
 |  |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/armaan-nagra/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/armaan-nagra/Leetcode/tree/master/0463-island-perimeter) |
+| [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 ## Monotonic Stack
 |  |
 | ------- |
