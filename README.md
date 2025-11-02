@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
+| [0807-custom-sort-string](https://github.com/armaan-nagra/Leetcode/tree/master/0807-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0931-maximum-frequency-stack](https://github.com/armaan-nagra/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/armaan-nagra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
+| [0807-custom-sort-string](https://github.com/armaan-nagra/Leetcode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
+| [0807-custom-sort-string](https://github.com/armaan-nagra/Leetcode/tree/master/0807-custom-sort-string) |
 | [0851-goat-latin](https://github.com/armaan-nagra/Leetcode/tree/master/0851-goat-latin) |
 | [0990-verifying-an-alien-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/armaan-nagra/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
