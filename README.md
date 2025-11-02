@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/armaan-nagra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-nagra/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
+| [1909-buildings-with-an-ocean-view](https://github.com/armaan-nagra/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/armaan-nagra/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/armaan-nagra/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
+| [1909-buildings-with-an-ocean-view](https://github.com/armaan-nagra/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Design
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/armaan-nagra/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
+| [1909-buildings-with-an-ocean-view](https://github.com/armaan-nagra/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 ## Queue
 |  |
 | ------- |
