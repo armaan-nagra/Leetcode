@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/armaan-nagra/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0852-friends-of-appropriate-ages](https://github.com/armaan-nagra/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/armaan-nagra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/armaan-nagra/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0912-random-pick-with-weight](https://github.com/armaan-nagra/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/armaan-nagra/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/armaan-nagra/Leetcode/tree/master/0807-custom-sort-string) |
+| [0852-friends-of-appropriate-ages](https://github.com/armaan-nagra/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/armaan-nagra/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/armaan-nagra/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
+| [0852-friends-of-appropriate-ages](https://github.com/armaan-nagra/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1894-merge-strings-alternately](https://github.com/armaan-nagra/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
