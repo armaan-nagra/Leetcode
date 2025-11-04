@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/armaan-nagra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/armaan-nagra/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/armaan-nagra/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/armaan-nagra/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0676-implement-magic-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/armaan-nagra/Leetcode/tree/master/0399-evaluate-division) |
+| [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 ## Bucket Sort
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/armaan-nagra/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/armaan-nagra/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 ## Monotonic Stack
 |  |
