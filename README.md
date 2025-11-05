@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/armaan-nagra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-nagra/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/armaan-nagra/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1909-buildings-with-an-ocean-view](https://github.com/armaan-nagra/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/armaan-nagra/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/armaan-nagra/Leetcode/tree/master/1512-design-underground-system) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/armaan-nagra/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/armaan-nagra/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/armaan-nagra/Leetcode/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/armaan-nagra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/armaan-nagra/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/armaan-nagra/Leetcode/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/armaan-nagra/Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/armaan-nagra/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/armaan-nagra/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/armaan-nagra/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
 | [1512-design-underground-system](https://github.com/armaan-nagra/Leetcode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/armaan-nagra/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/armaan-nagra/Leetcode/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/armaan-nagra/Leetcode/tree/master/3678-design-task-manager) |
 ## Randomized
