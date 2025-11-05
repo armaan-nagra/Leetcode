@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/armaan-nagra/Leetcode/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/armaan-nagra/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/armaan-nagra/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/armaan-nagra/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/armaan-nagra/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/armaan-nagra/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/armaan-nagra/Leetcode/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/armaan-nagra/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Trie
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/armaan-nagra/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/armaan-nagra/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
