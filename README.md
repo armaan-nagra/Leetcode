@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/armaan-nagra/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/armaan-nagra/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/armaan-nagra/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/armaan-nagra/Leetcode/tree/master/0937-online-stock-span) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/armaan-nagra/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/armaan-nagra/Leetcode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0676-implement-magic-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/armaan-nagra/Leetcode/tree/master/0146-lru-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
 ## Simulation
 |  |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -821,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -834,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/armaan-nagra/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0450-delete-node-in-a-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/armaan-nagra/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
