@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/armaan-nagra/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/armaan-nagra/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1539-diagonal-traverse-ii](https://github.com/armaan-nagra/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1582-design-browser-history](https://github.com/armaan-nagra/Leetcode/tree/master/1582-design-browser-history) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/armaan-nagra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/armaan-nagra/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/armaan-nagra/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1488-sort-integers-by-the-power-value](https://github.com/armaan-nagra/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1539-diagonal-traverse-ii](https://github.com/armaan-nagra/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/armaan-nagra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/armaan-nagra/Leetcode/tree/master/1304-longest-happy-string) |
+| [1539-diagonal-traverse-ii](https://github.com/armaan-nagra/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [3678-design-task-manager](https://github.com/armaan-nagra/Leetcode/tree/master/3678-design-task-manager) |
