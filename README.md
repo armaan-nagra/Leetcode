@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/armaan-nagra/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0865-robot-room-cleaner](https://github.com/armaan-nagra/Leetcode/tree/master/0865-robot-room-cleaner) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/armaan-nagra/Leetcode/tree/master/1233-number-of-ships-in-a-rectangle) |
 ## Backtracking
 |  |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0865-robot-room-cleaner](https://github.com/armaan-nagra/Leetcode/tree/master/0865-robot-room-cleaner) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
