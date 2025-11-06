@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/armaan-nagra/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0990-verifying-an-alien-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/armaan-nagra/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1176-design-a-leaderboard](https://github.com/armaan-nagra/Leetcode/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/armaan-nagra/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1176-design-a-leaderboard](https://github.com/armaan-nagra/Leetcode/tree/master/1176-design-a-leaderboard) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/armaan-nagra/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/armaan-nagra/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/armaan-nagra/Leetcode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/armaan-nagra/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/armaan-nagra/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/armaan-nagra/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
@@ -841,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/armaan-nagra/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/armaan-nagra/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/armaan-nagra/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
