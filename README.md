@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/armaan-nagra/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/armaan-nagra/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Graph
 |  |
 | ------- |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/armaan-nagra/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/armaan-nagra/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/armaan-nagra/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/armaan-nagra/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/armaan-nagra/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
