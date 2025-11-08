@@ -1,26 +1,28 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         rows, cols = len(matrix), len(matrix[0])
-        copy_matrix = []
-        for r in range(rows):
-            row = []
-            for c in range(cols):
-                row.append(matrix[r][c])
-            copy_matrix.append(row)
-        print(copy_matrix)
+        rowZero = False
 
-        
-        def zero_row(row):
-            for c in range(cols):
-                matrix[row][c] = 0
-        
-        def zero_col(col):
-            for r in range(rows):
-                matrix[r][col] = 0
-                
         for r in range(rows):
             for c in range(cols):
-                if copy_matrix[r][c] == 0:
-                    zero_row(r)
-                    zero_col(c)
+                if matrix[r][c] == 0:
+                    matrix[0][c] = 0
+                    if r > 0:
+                        matrix[r][0] = 0
+                    else:
+                        rowZero = True
+                    
+        for r in range(1, rows):
+            for c in range(1, cols):
+                if matrix[0][c] == 0 or matrix[r][0] == 0:
+                    matrix[r][c] = 0
+        
+        if matrix[0][0] == 0:
+            for r in range(rows):
+                matrix[r][0] = 0
+        
+        if rowZero:
+            for c in range(cols):
+                matrix[0][c] = 0
+
         
