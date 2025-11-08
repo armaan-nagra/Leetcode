@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/armaan-nagra/Leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/armaan-nagra/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/armaan-nagra/Leetcode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/armaan-nagra/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/armaan-nagra/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/armaan-nagra/Leetcode/tree/master/0817-design-hashmap) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/armaan-nagra/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/armaan-nagra/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0523-continuous-subarray-sum](https://github.com/armaan-nagra/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/armaan-nagra/Leetcode/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/armaan-nagra/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/armaan-nagra/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
