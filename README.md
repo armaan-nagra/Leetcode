@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/armaan-nagra/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
 | [1909-buildings-with-an-ocean-view](https://github.com/armaan-nagra/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/armaan-nagra/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/armaan-nagra/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/armaan-nagra/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/armaan-nagra/Leetcode/tree/master/1304-longest-happy-string) |
 | [1539-diagonal-traverse-ii](https://github.com/armaan-nagra/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1788-stone-game-vi](https://github.com/armaan-nagra/Leetcode/tree/master/1788-stone-game-vi) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/armaan-nagra/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1962-single-threaded-cpu](https://github.com/armaan-nagra/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [3678-design-task-manager](https://github.com/armaan-nagra/Leetcode/tree/master/3678-design-task-manager) |
 ## Stack
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/armaan-nagra/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/armaan-nagra/Leetcode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/armaan-nagra/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2058-concatenation-of-array](https://github.com/armaan-nagra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/armaan-nagra/Leetcode/tree/master/2169-simple-bank-system) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/armaan-nagra/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
