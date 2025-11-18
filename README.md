@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/armaan-nagra/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/armaan-nagra/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1074-high-five](https://github.com/armaan-nagra/Leetcode/tree/master/1074-high-five) |
 | [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/armaan-nagra/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/armaan-nagra/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/armaan-nagra/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1074-high-five](https://github.com/armaan-nagra/Leetcode/tree/master/1074-high-five) |
 | [1176-design-a-leaderboard](https://github.com/armaan-nagra/Leetcode/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/armaan-nagra/Leetcode/tree/master/1249-snapshot-array) |
 | [1272-invalid-transactions](https://github.com/armaan-nagra/Leetcode/tree/master/1272-invalid-transactions) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/armaan-nagra/Leetcode/tree/master/0883-car-fleet) |
 | [0959-3sum-with-multiplicity](https://github.com/armaan-nagra/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/armaan-nagra/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1074-high-five](https://github.com/armaan-nagra/Leetcode/tree/master/1074-high-five) |
 | [1095-two-city-scheduling](https://github.com/armaan-nagra/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1176-design-a-leaderboard](https://github.com/armaan-nagra/Leetcode/tree/master/1176-design-a-leaderboard) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/armaan-nagra/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/armaan-nagra/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/armaan-nagra/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1074-high-five](https://github.com/armaan-nagra/Leetcode/tree/master/1074-high-five) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/armaan-nagra/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1184-car-pooling](https://github.com/armaan-nagra/Leetcode/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/armaan-nagra/Leetcode/tree/master/1304-longest-happy-string) |
